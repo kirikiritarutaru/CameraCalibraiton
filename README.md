@@ -5,4 +5,5 @@
 
 ## Quick Start
 Create the 'images' directory.
+
 Put some chessboard images that you captured into 'images'.
